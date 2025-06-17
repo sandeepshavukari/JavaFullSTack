@@ -2,7 +2,7 @@
 
 This repository contains notes and references for learning **Spring** and **Spring Boot** as part of full stack Java development.
 
-📄 See [`Spring_Notes.md`](./Spring_Notes.md) for detailed notes.
+📄 See [JFSD Notes](https://1drv.ms/o/c/afa8f9abec30f20c/EptGQoGw_ypPqvc7iXzlYCYBhETTX_wexpY3YpIS1dktag) for detailed notes.
 
 ---
 
